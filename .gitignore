@@ -1,0 +1,4 @@
+*.o
+*.exe
+*.out
+solar_system  # Ignore the executable
